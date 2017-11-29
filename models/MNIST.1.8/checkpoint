@@ -1,0 +1,2 @@
+model_checkpoint_path: "MNIST.1.8.ckpt"
+all_model_checkpoint_paths: "MNIST.1.8.ckpt"
